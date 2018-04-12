@@ -1,9 +1,13 @@
 
-.App {
+.App { 
   background: url(./../blur_bg_1.jpg) center / cover;
   text-align: center;
 }
 
+#album-title {
+  text-align: center;
+
+}
 
 
 
