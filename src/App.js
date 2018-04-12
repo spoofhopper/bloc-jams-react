@@ -18,8 +18,8 @@ class App extends Component {
           <Route path="/album/:slug" component={Album} />
         </main>
 
-        <footer class="mdl-mini-footer">
-          <ul class="mdl-mini-footer__link-list">
+        <footer className="mdl-mini-footer">
+          <ul className="mdl-mini-footer__link-list">
             <li>
               <Link to="/">Landing</Link>
             </li>

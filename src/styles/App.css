@@ -1,5 +1,5 @@
 
-.App { 
+.App {
   background: url(./../blur_bg_1.jpg) center / cover;
   text-align: center;
 }
@@ -23,7 +23,9 @@
 
 
 
-
+.mdl-mini-footer > ul > li {
+  margin: 0 20px 0 20px;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
